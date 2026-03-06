@@ -1,0 +1,15 @@
+name = "gugu-gaga-admin"
+type = "javascript"
+account_id = "YOUR_ACCOUNT_ID"
+workers_dev = true
+compatibility_date = "2026-02-09"
+
+[vars]
+BOT_ID = "YOUR_BOT_ID"
+GROUP_ID = "YOUR_GROUP_ID"
+OWNER_ID = "YOUR_USER_ID"
+GROUPME_TOKEN = "jbRh7tRm4chFSvTis3UI9siLbbprGjR1Y6Zqhi7Y"
+
+[[kv_namespaces]]
+binding = "ENFORCE_KV"
+id = "YOUR_KV_NAMESPACE_ID"
