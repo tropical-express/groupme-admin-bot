@@ -1,7 +1,7 @@
 // ================= CONFIG =================
 const BLOCKED_DOMAINS = [
   "bit.ly", "tinyurl", "grabify", "iplogger",
-  "porn", "xnxx", "xvideos", "discord.gg", "t.me"
+  "porn", "xnxx", "xvideos", "discord.gg", "pornhub.com"
 ];
 const CAPTCHA_TTL = 60000;
 const MAX_STRIKES = 3;
@@ -183,3 +183,4 @@ async function post(env, text) {
     body: JSON.stringify({ bot_id: env.BOT_ID, text })
   });
 }
+
