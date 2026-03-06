@@ -1,4 +1,4 @@
-name = "gugu-gaga-admin"
+name = "YOUR_ADMIN_BOT_NAME_HERE"
 type = "javascript"
 account_id = "YOUR_ACCOUNT_ID"
 workers_dev = true
@@ -8,8 +8,9 @@ compatibility_date = "2026-02-09"
 BOT_ID = "YOUR_BOT_ID"
 GROUP_ID = "YOUR_GROUP_ID"
 OWNER_ID = "YOUR_USER_ID"
-GROUPME_TOKEN = "jbRh7tRm4chFSvTis3UI9siLbbprGjR1Y6Zqhi7Y"
+GROUPME_TOKEN = "YOUR_GROUPME_TOKEN_HERE"
 
 [[kv_namespaces]]
 binding = "ENFORCE_KV"
 id = "YOUR_KV_NAMESPACE_ID"
+
